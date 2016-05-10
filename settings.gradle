@@ -1,1 +1,1 @@
-include ':app', ':signinsignup'
+include ':app', ':signinsignup', ':multilanguage', ':multi_screen', ':multi_di', ':data', ':custom_listview'
