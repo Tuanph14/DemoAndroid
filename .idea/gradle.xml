@@ -3,19 +3,23 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.10" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/custom_listview" />
             <option value="$PROJECT_DIR$/data" />
+            <option value="$PROJECT_DIR$/databasecountry" />
+            <option value="$PROJECT_DIR$/fileexplorer" />
+            <option value="$PROJECT_DIR$/fragment" />
+            <option value="$PROJECT_DIR$/intent_demo" />
             <option value="$PROJECT_DIR$/multi_di" />
             <option value="$PROJECT_DIR$/multi_screen" />
             <option value="$PROJECT_DIR$/multilanguage" />
             <option value="$PROJECT_DIR$/signinsignup" />
+            <option value="$PROJECT_DIR$/simple_exlorer" />
           </set>
         </option>
         <option name="myModules">
@@ -24,10 +28,15 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/custom_listview" />
             <option value="$PROJECT_DIR$/data" />
+            <option value="$PROJECT_DIR$/databasecountry" />
+            <option value="$PROJECT_DIR$/fileexplorer" />
+            <option value="$PROJECT_DIR$/fragment" />
+            <option value="$PROJECT_DIR$/intent_demo" />
             <option value="$PROJECT_DIR$/multi_di" />
             <option value="$PROJECT_DIR$/multi_screen" />
             <option value="$PROJECT_DIR$/multilanguage" />
             <option value="$PROJECT_DIR$/signinsignup" />
+            <option value="$PROJECT_DIR$/simple_exlorer" />
           </set>
         </option>
       </GradleProjectSettings>

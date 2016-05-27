@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileExplorer</string>
+    <string name="btnopen">Open Dialog</string>
+</resources>

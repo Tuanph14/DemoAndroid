@@ -1,1 +1,1 @@
-include ':app', ':signinsignup', ':multilanguage', ':multi_screen', ':multi_di', ':data', ':custom_listview'
+include ':app', ':signinsignup', ':multilanguage', ':multi_screen', ':multi_di', ':data', ':custom_listview', ':simple_exlorer', ':fileexplorer', ':intent_demo', ':fragment', ':databasecountry'
