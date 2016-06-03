@@ -1,4 +1,4 @@
-package com.edu.t2f.databasecountry;
+package com.edu.t2f.database_sample;
 
 /**
  * Created by tuan on 05/23/2016.

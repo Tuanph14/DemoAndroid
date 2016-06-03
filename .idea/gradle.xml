@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/custom_listview" />
             <option value="$PROJECT_DIR$/data" />
+            <option value="$PROJECT_DIR$/database_sample" />
             <option value="$PROJECT_DIR$/databasecountry" />
             <option value="$PROJECT_DIR$/fileexplorer" />
             <option value="$PROJECT_DIR$/fragment" />
@@ -20,6 +21,7 @@
             <option value="$PROJECT_DIR$/multilanguage" />
             <option value="$PROJECT_DIR$/signinsignup" />
             <option value="$PROJECT_DIR$/simple_exlorer" />
+            <option value="$PROJECT_DIR$/takephoto" />
           </set>
         </option>
         <option name="myModules">
@@ -28,6 +30,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/custom_listview" />
             <option value="$PROJECT_DIR$/data" />
+            <option value="$PROJECT_DIR$/database_sample" />
             <option value="$PROJECT_DIR$/databasecountry" />
             <option value="$PROJECT_DIR$/fileexplorer" />
             <option value="$PROJECT_DIR$/fragment" />
@@ -37,6 +40,7 @@
             <option value="$PROJECT_DIR$/multilanguage" />
             <option value="$PROJECT_DIR$/signinsignup" />
             <option value="$PROJECT_DIR$/simple_exlorer" />
+            <option value="$PROJECT_DIR$/takephoto" />
           </set>
         </option>
       </GradleProjectSettings>

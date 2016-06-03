@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/custom_listview/custom_listview.iml" filepath="$PROJECT_DIR$/custom_listview/custom_listview.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database_sample/database_sample.iml" filepath="$PROJECT_DIR$/database_sample/database_sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/databasecountry/databasecountry.iml" filepath="$PROJECT_DIR$/databasecountry/databasecountry.iml" />
       <module fileurl="file://$PROJECT_DIR$/fileexplorer/fileexplorer.iml" filepath="$PROJECT_DIR$/fileexplorer/fileexplorer.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragment/fragment.iml" filepath="$PROJECT_DIR$/fragment/fragment.iml" />
@@ -15,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/multilanguage/multilanguage.iml" filepath="$PROJECT_DIR$/multilanguage/multilanguage.iml" />
       <module fileurl="file://$PROJECT_DIR$/signinsignup/signinsignup.iml" filepath="$PROJECT_DIR$/signinsignup/signinsignup.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple_exlorer/simple_exlorer.iml" filepath="$PROJECT_DIR$/simple_exlorer/simple_exlorer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/takephoto/takephoto.iml" filepath="$PROJECT_DIR$/takephoto/takephoto.iml" />
     </modules>
   </component>
 </project>
