@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/paper_backg"
+    android:id="@+id/detailContainerView">
+
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:rotation="-4">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/personicon"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentStart="false"
+            android:adjustViewBounds="false"
+            android:cropToPadding="false"
+            android:layout_alignWithParentIfMissing="false"
+            android:minWidth="250dp"
+            android:minHeight="250dp"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentRight="false"
+            android:layout_alignParentTop="false"
+            android:layout_alignParentBottom="false"
+            android:maxHeight="250dp"
+            android:maxWidth="250dp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/polaroid_frame"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentStart="false"
+            android:adjustViewBounds="false"
+            android:cropToPadding="false"
+            android:layout_alignWithParentIfMissing="false"
+            android:scaleX="1.75"
+            android:layout_alignParentBottom="false"
+            android:scaleY="1.75"
+            android:layout_centerInParent="true"
+            android:layout_alignParentTop="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+
+    </FrameLayout>
+
+    <com.edu.t2f.contentprovider.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact Name"
+        android:id="@+id/detailText"
+        android:textSize="30sp"
+        android:background="@drawable/tape3"
+        android:paddingLeft="16sp"
+        android:paddingRight="14sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:rotation="2"
+        android:paddingTop="5sp"/>
+
+    <com.edu.t2f.contentprovider.MyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Phone Number"
+        android:id="@+id/pnumber"
+        android:layout_below="@+id/detailText"
+        android:textSize="25sp"
+        android:background="@drawable/tape1"
+        android:layout_marginTop="3dp"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:rotation="-2"
+        />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageCall"
+        android:layout_alignParentLeft="false"
+        android:baselineAlignBottom="false"
+        android:layout_gravity="center"
+        android:layout_marginLeft="35dp"
+        android:src="@android:drawable/sym_action_call"
+        android:scaleX="2"
+        android:scaleY="2"
+        android:hapticFeedbackEnabled="true"
+        android:rotation="5"
+        android:onClick="onCallClick"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentStart="false"
+        android:layout_below="@+id/pnumber"
+        android:adjustViewBounds="false"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/white_rounded_button"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageMessage"
+        android:layout_alignParentLeft="false"
+        android:baselineAlignBottom="false"
+        android:src="@drawable/perm_group_messages"
+        android:scaleX="2"
+        android:scaleY="2"
+        android:hapticFeedbackEnabled="true"
+        android:onClick="onTxtClick"
+        android:layout_gravity="right|center_vertical"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentStart="false"
+        android:rotation="-10"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/imageCall"
+        android:layout_alignLeft="@+id/imageCall"/>
+</RelativeLayout>
