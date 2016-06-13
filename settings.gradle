@@ -1,1 +1,1 @@
-include ':app', ':signinsignup', ':multilanguage', ':multi_screen', ':multi_di', ':data', ':custom_listview', ':simple_exlorer', ':fileexplorer', ':intent_demo', ':fragment', ':databasecountry', ':takephoto', ':database_sample', ':demoprovider', ':democontact', ':contentprovider'
+include ':app', ':signinsignup', ':multilanguage', ':multi_screen', ':multi_di', ':data', ':custom_listview', ':simple_exlorer', ':fileexplorer', ':intent_demo', ':fragment', ':databasecountry', ':takephoto', ':database_sample', ':demoprovider', ':democontact', ':contentprovider', ':demo_menu'

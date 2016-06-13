@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
       <module fileurl="file://$PROJECT_DIR$/database_sample/database_sample.iml" filepath="$PROJECT_DIR$/database_sample/database_sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/databasecountry/databasecountry.iml" filepath="$PROJECT_DIR$/databasecountry/databasecountry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_menu/demo_menu.iml" filepath="$PROJECT_DIR$/demo_menu/demo_menu.iml" />
       <module fileurl="file://$PROJECT_DIR$/democontact/democontact.iml" filepath="$PROJECT_DIR$/democontact/democontact.iml" />
       <module fileurl="file://$PROJECT_DIR$/demoprovider/demoprovider.iml" filepath="$PROJECT_DIR$/demoprovider/demoprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/fileexplorer/fileexplorer.iml" filepath="$PROJECT_DIR$/fileexplorer/fileexplorer.iml" />
