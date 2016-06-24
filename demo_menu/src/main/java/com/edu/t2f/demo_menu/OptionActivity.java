@@ -35,12 +35,12 @@ public class OptionActivity extends AppCompatActivity {
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>
                 (this,android.R.layout.simple_list_item_1,countrise);
-        listView.setAdapter(adapter);
+        //listView.setAdapter(adapter);
 
         btnNext.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(OptionActivity.this, ContextMenuActivity.class);
+                Intent intent = new Intent(OptionActivity.this, ActionModeActivity.class);
                 startActivity(intent);
             }
         });
